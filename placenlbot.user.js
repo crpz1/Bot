@@ -29,7 +29,7 @@ if (window.top !== window.self) {
             const i = document.createElement("img");
             i.src = "https://imgur.com/g2aG2Nj.png";
             i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
-            //console.log(i);
+            console.log(i);
             //console.log("tes2t")
             return i;
         })())
