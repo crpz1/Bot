@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Furbot
 // @namespace    https://github.com/PlaceNL/Bot
-// @version      4
+// @version      5
 // @description  De bot voor PlaceNL!
 // @author       NoahvdAa
 // @match        https://www.reddit.com/r/place/*
